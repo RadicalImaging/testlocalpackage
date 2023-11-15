@@ -1,5 +1,5 @@
 {
-  "name": "testlocalpackage",
+  "name": "@radicalimaging/testlocalpackage",
   "version": "1.0.0",
   "description": "To test local releases to ghp",
   "main": "index.js",
